@@ -1,0 +1,32 @@
+{
+  "name": "instagram-post-bot",
+  "version": "1.0.0",
+  "description": "cli based Instagram bot to publish posts automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aKamrani/Instagram-post-bot.git"
+  },
+  "keywords": [
+    "instagram",
+    "bot"
+  ],
+  "author": "Amirhossein Kamrani",
+  "license": "MIT",
+  "bin": {
+    "ipb": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/aKamrani/Instagram-post-bot/issues"
+  },
+  "homepage": "https://github.com/aKamrani/Instagram-post-bot#readme",
+  "dependencies": {
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "yargs": "13.2",
+    "puppeteer": "^10.2.0"
+  }
+}
