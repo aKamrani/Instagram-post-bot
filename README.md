@@ -17,7 +17,7 @@ It's based on pupeeter.
 * Un-detectable!
 
 ## How to use
-1) Install the npm package `npm install instagram-post-bot`.
+1) Install the package using npm: `npm install instagram-post-bot`.
 3) Invoke `ipb <media_path> -c <caption> -u <user> -p <password> -f <bool>` to run the bot.
 4) Enjoy ❤
 
