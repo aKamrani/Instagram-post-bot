@@ -1,5 +1,5 @@
 # Instagram Post Publisher Bot
-Simple cli based Instagram bot to publish posts automatically.
+cli based Instagram bot to publish posts automatically, without detection.
 
 
 [![made-by-pupeeter](https://img.shields.io/badge/Made%20By-pupeeter-green?style=for-the-badge)](https://github.com/puppeteer/puppeteer)
