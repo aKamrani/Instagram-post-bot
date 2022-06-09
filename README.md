@@ -30,3 +30,6 @@ MIT, see LICENSE.md file.
 
 ## Contributions
 **any contributions is welcome**
+
+## Advice
+**you can use it as a api base instead of cli**
