@@ -32,4 +32,4 @@ MIT, see LICENSE.md file.
 **any contributions is welcome**
 
 ## Advice
-**you can use it as a api base instead of cli**
+**you can use it as a api based instead of cli**
